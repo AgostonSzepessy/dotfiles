@@ -1,0 +1,21 @@
+[submodule "home/.config/nvim/bundle/nvim-lspconfig"]
+	path = home/.config/nvim/bundle/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "home/.config/nvim/bundle/completion-nvim"]
+	path = home/.config/nvim/bundle/completion-nvim
+	url = https://github.com/nvim-lua/completion-nvim
+[submodule "home/.config/nvim/bundle/fzf.vim"]
+	path = home/.config/nvim/bundle/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule "home/.config/nvim/bundle/vim-sleuth"]
+	path = home/.config/nvim/bundle/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth
+[submodule "home/.config/nvim/bundle/vim-sensible"]
+	path = home/.config/nvim/bundle/vim-sensible
+	url = https://github.com/tpope/vim-sensible
+[submodule "home/.config/nvim/bundle/fzf"]
+	path = home/.config/nvim/bundle/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "home/.config/nvim/bundle/lsp_extensions.nvim"]
+	path = home/.config/nvim/bundle/lsp_extensions.nvim
+	url = https://github.com/nvim-lua/lsp_extensions.nvim

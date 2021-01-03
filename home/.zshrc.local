@@ -1,2 +1,12 @@
 # homeshick
 source "$HOME/.homesick/repos/homeshick/homeshick.sh"
+
+# rust-analyzer
+export PATH="$PATH:~/.local/bin/"
+export FZF_DEFAULT_COMMAND="rg"
+
+if type rg &> /dev/null; then
+    export FZF_DEFAULT_COMMAND='rg --files'
+    export FZF_DEFAULT_OPTS='-m --height 50% --border'
+fi
+
