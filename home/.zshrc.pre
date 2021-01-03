@@ -1,0 +1,2 @@
+# homeshick auto complete
+fpath=($HOME/.homesick/repos/homeshick/completions $fpath)
